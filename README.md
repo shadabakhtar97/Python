@@ -95,3 +95,54 @@ In this example:
 - Once valid input is provided, we exit the loop and print the age.
 
 These examples demonstrate how to handle different types of exceptions and ensure proper resource management in Python programs. Understanding and using exceptions effectively can make your code more robust and user-friendly.
+
+### Python Framworks
+
+Python has a wide range of frameworks for various purposes. Here are some popular ones:
+
+1. **Web Frameworks:**
+   - Flask: A micro web framework for building simple to complex web applications.
+   - Django: A high-level web framework that provides many built-in features for rapid development.
+
+2. **Data Science and Machine Learning:**
+   - NumPy: For numerical computing and arrays.
+   - pandas: For data manipulation and analysis.
+   - scikit-learn: For machine learning and data mining.
+   - TensorFlow and PyTorch: For deep learning.
+
+3. **GUI Development:**
+   - Tkinter: The standard Python interface to the Tk GUI toolkit.
+   - PyQt and PyGTK: For building cross-platform graphical applications.
+
+4. **Game Development:**
+   - Pygame: A library for creating 2D games.
+
+5. **Data Visualization:**
+   - Matplotlib: For creating static, animated, or interactive visualizations.
+   - Seaborn: Built on top of Matplotlib, it simplifies data visualization.
+
+6. **Asynchronous Programming:**
+   - asyncio: For writing single-threaded, concurrent code using coroutines.
+
+7. **Microservices and APIs:**
+   - FastAPI: A modern, fast, web framework for building APIs with Python 3.6+.
+   - Flask-RESTful: An extension for Flask to quickly build REST APIs.
+
+8. **Testing:**
+   - pytest: A popular testing framework for writing simple and scalable test cases.
+
+9. **Databases:**
+   - SQLAlchemy: An ORM (Object-Relational Mapping) library for working with databases.
+   - Django ORM: Django's built-in ORM for database interactions.
+
+10. **Automation and Scripting:**
+    - Ansible: For automating software provisioning, configuration management, and application deployment.
+
+11. **Blockchain Development:**
+    - Web3.py: A Python library for working with Ethereum and other blockchain networks.
+
+12. **Big Data and Data Processing:**
+    - Apache Spark (PySpark): For big data processing and analytics.
+
+These are just a few examples, and there are many more specialized Python frameworks and libraries available for various domains and purposes. The choice of framework depends on the specific requirements of your project.
+
